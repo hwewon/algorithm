@@ -15,11 +15,13 @@ public class BaekJoon_2675 {
         for(int i=0; i<a; i++){
             StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
-            int b = Integer.parseInt(br.readLine());
-            String c = br.readLine();
+            int b = Integer.parseInt(st.nextToken());
+            String c = st.nextToken();
 
-            for(int j=0; j<b; j++){
-                System.out.println(c.charAt(j));
+            for(int j=0; j<c.length(); j++){
+                for(int k=0; k<b; k++){
+                    System.out.print(c.charAt(j));
+                }
             }
             System.out.println();
         }
