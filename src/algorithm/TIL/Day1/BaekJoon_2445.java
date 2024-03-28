@@ -1,4 +1,4 @@
-package algorithm.TIL;
+package algorithm.TIL.Day1;
 
 import java.io.*;
 
