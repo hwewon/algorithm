@@ -1,4 +1,4 @@
-package algorithm.TIL.Day6;
+package algorithm.TIL.FirstTest;
 
 import java.io.*;
 import java.util.*;

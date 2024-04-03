@@ -1,4 +1,4 @@
-package algorithm.TIL.Day6;
+package algorithm.TIL.FirstTest;
 
 // 메모리 15872kb, 시간 148ms
 
