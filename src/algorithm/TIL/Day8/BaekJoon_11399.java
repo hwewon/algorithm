@@ -3,7 +3,7 @@ package algorithm.TIL.Day8;
 /*
     메모리 14452kb, 시간 132ms, 시간복잡도 O(n log n)
 
-    퀵 정렬의 시간복잡는 평균적으로 시간복잡도 O(n log n)
+    정렬의 시간복잡도는 평균적으로 시간복잡도 O(n log n)
 
     정렬 문제
 
